@@ -1,5 +1,6 @@
 #### HAPPY PRIDE MONTH
 ### An AI Blocklist in uBlacklist format made with love by laylavish
+### Re-formatted for use with PiHole
 
 # Home Project: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 # Feel free to submit a pull request if you find more sites!
